@@ -6,6 +6,6 @@ Before looking into the data set, I did some initial analysis about temperature 
 ![Where does it thrive?](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/1.PNG)
 
 ## Looking at EDA we find interesting insights:
-![San Jose EDA?](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/2.PNG)
-![Iquitos EDA](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/3.PNG)
+![San Jose EDA?](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/3.PNG)
+![Iquitos EDA](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/4.PNG)
 Important factors for San Juan that affect the number of dengue cases are different from Iquitos - meaning that it is critical that we make different models for them!
