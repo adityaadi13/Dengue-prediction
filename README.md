@@ -9,3 +9,9 @@ Before looking into the data set, I did some initial analysis about temperature 
 ![San Jose EDA?](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/3.PNG)
 ![Iquitos EDA](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/4.PNG)
 Important factors for San Juan that affect the number of dengue cases are different from Iquitos - meaning that it is critical that we make different models for them!
+
+
+## Game plan:
+Now that we understand that it is important to make different models, it is time for pre-processing the data to make it more suitable for analysis. One of the main challenges was to impute the missing values - as with any dataset. As the number of cases has seasonal variation (mostly - monthly), I used monthly averages over the years. Example -  if a value in Feb'18 is missing, I took average from other years during the month of February. There were other considerations like this as well. The picture below enlightens the game plan that I will follow:
+
+![Iquitos EDA](https://github.com/adityaadi13/Dengue-prediction/blob/master/Images/5.PNG)
